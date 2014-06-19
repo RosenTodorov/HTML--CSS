@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\HTML Tables\HTML Tables\bin\HTML Tables.dll.config
+d:\user\documents\visual studio 2013\Projects\HTML Tables\HTML Tables\bin\HTML Tables.dll
+d:\user\documents\visual studio 2013\Projects\HTML Tables\HTML Tables\bin\HTML Tables.pdb
+d:\user\documents\visual studio 2013\Projects\HTML Tables\HTML Tables\obj\Debug\HTML Tables.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\HTML Tables\HTML Tables\obj\Debug\HTML Tables.dll
+d:\user\documents\visual studio 2013\Projects\HTML Tables\HTML Tables\obj\Debug\HTML Tables.pdb

@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\HTML-Forms\HTML-Forms\bin\HTML-Forms.dll.config
+d:\user\documents\visual studio 2013\Projects\HTML-Forms\HTML-Forms\bin\HTML-Forms.dll
+d:\user\documents\visual studio 2013\Projects\HTML-Forms\HTML-Forms\bin\HTML-Forms.pdb
+d:\user\documents\visual studio 2013\Projects\HTML-Forms\HTML-Forms\obj\Debug\HTML-Forms.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\HTML-Forms\HTML-Forms\obj\Debug\HTML-Forms.dll
+d:\user\documents\visual studio 2013\Projects\HTML-Forms\HTML-Forms\obj\Debug\HTML-Forms.pdb

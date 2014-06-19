@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2013\Projects\1.CSS-Overview\01.Ticket\bin\01.Ticket.dll.config
+c:\users\rosen\documents\visual studio 2013\Projects\1.CSS-Overview\01.Ticket\bin\01.Ticket.dll
+c:\users\rosen\documents\visual studio 2013\Projects\1.CSS-Overview\01.Ticket\bin\01.Ticket.pdb
+c:\users\rosen\documents\visual studio 2013\Projects\1.CSS-Overview\01.Ticket\obj\Debug\CSS-Overview.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2013\Projects\1.CSS-Overview\01.Ticket\obj\Debug\01.Ticket.dll
+c:\users\rosen\documents\visual studio 2013\Projects\1.CSS-Overview\01.Ticket\obj\Debug\01.Ticket.pdb

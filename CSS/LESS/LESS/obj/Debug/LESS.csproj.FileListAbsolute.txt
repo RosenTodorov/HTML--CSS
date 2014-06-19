@@ -1,0 +1,6 @@
+c:\Users\Rosen\Documents\Visual Studio 2013\Projects\LESS\LESS\bin\LESS.dll.config
+c:\Users\Rosen\Documents\Visual Studio 2013\Projects\LESS\LESS\bin\LESS.dll
+c:\Users\Rosen\Documents\Visual Studio 2013\Projects\LESS\LESS\bin\LESS.pdb
+c:\Users\Rosen\Documents\Visual Studio 2013\Projects\LESS\LESS\obj\Debug\LESS.csprojResolveAssemblyReference.cache
+c:\Users\Rosen\Documents\Visual Studio 2013\Projects\LESS\LESS\obj\Debug\LESS.dll
+c:\Users\Rosen\Documents\Visual Studio 2013\Projects\LESS\LESS\obj\Debug\LESS.pdb

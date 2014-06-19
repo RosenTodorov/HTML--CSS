@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2013\Projects\CSS Presentation\CSS Presentation\bin\CSS Presentation.dll.config
+c:\users\rosen\documents\visual studio 2013\Projects\CSS Presentation\CSS Presentation\bin\CSS Presentation.dll
+c:\users\rosen\documents\visual studio 2013\Projects\CSS Presentation\CSS Presentation\bin\CSS Presentation.pdb
+c:\users\rosen\documents\visual studio 2013\Projects\CSS Presentation\CSS Presentation\obj\Debug\CSS Presentation.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2013\Projects\CSS Presentation\CSS Presentation\obj\Debug\CSS Presentation.dll
+c:\users\rosen\documents\visual studio 2013\Projects\CSS Presentation\CSS Presentation\obj\Debug\CSS Presentation.pdb

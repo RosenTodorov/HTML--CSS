@@ -1,0 +1,21 @@
+﻿table {
+    border-collapse: collapse;
+    width: 35%;
+}
+
+table, td {
+    border: 2px solid black;
+}
+
+.label {
+    text-align: right;
+}
+
+.foot {
+    text-align: center;
+    background-color: skyblue;
+}
+
+.input {
+    width: 8%;
+}

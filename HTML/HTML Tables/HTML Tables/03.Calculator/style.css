@@ -1,0 +1,15 @@
+﻿table {
+    border-collapse: collapse;
+}
+
+table, id{
+    boarder: 2px solid black;
+}
+
+.button {
+    width: 100%;
+}
+
+.text {
+    text-align: right;
+}

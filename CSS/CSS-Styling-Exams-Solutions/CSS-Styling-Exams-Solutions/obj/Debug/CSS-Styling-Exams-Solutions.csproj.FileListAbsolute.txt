@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\CSS-Styling-Exams-Solutions\CSS-Styling-Exams-Solutions\bin\CSS-Styling-Exams-Solutions.dll.config
+d:\user\documents\visual studio 2013\Projects\CSS-Styling-Exams-Solutions\CSS-Styling-Exams-Solutions\bin\CSS-Styling-Exams-Solutions.dll
+d:\user\documents\visual studio 2013\Projects\CSS-Styling-Exams-Solutions\CSS-Styling-Exams-Solutions\bin\CSS-Styling-Exams-Solutions.pdb
+d:\user\documents\visual studio 2013\Projects\CSS-Styling-Exams-Solutions\CSS-Styling-Exams-Solutions\obj\Debug\CSS-Styling-Exams-Solutions.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\CSS-Styling-Exams-Solutions\CSS-Styling-Exams-Solutions\obj\Debug\CSS-Styling-Exams-Solutions.dll
+d:\user\documents\visual studio 2013\Projects\CSS-Styling-Exams-Solutions\CSS-Styling-Exams-Solutions\obj\Debug\CSS-Styling-Exams-Solutions.pdb

@@ -1,0 +1,15 @@
+﻿body {
+    color: rgb(0,148,255);
+    font-size: 16px;
+    font-family: Consolas;
+}
+
+p:first-letter {
+    font-size: 34px;
+    font-family:'Edwardian Script ITC';
+    font-style: italic;
+}
+
+p:first-line {
+    font-weight: bold;
+}

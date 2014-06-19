@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2013\Projects\CSS-SASS\CSS-SASS\bin\CSS-SASS.dll.config
+c:\users\rosen\documents\visual studio 2013\Projects\CSS-SASS\CSS-SASS\bin\CSS-SASS.dll
+c:\users\rosen\documents\visual studio 2013\Projects\CSS-SASS\CSS-SASS\bin\CSS-SASS.pdb
+c:\users\rosen\documents\visual studio 2013\Projects\CSS-SASS\CSS-SASS\obj\Debug\CSS-SASS.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2013\Projects\CSS-SASS\CSS-SASS\obj\Debug\CSS-SASS.dll
+c:\users\rosen\documents\visual studio 2013\Projects\CSS-SASS\CSS-SASS\obj\Debug\CSS-SASS.pdb

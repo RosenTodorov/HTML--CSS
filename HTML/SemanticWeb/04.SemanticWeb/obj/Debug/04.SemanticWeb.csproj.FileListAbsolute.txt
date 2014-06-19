@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\04.SemanticWeb\04.SemanticWeb\bin\04.SemanticWeb.dll.config
+d:\user\documents\visual studio 2013\Projects\04.SemanticWeb\04.SemanticWeb\bin\04.SemanticWeb.dll
+d:\user\documents\visual studio 2013\Projects\04.SemanticWeb\04.SemanticWeb\bin\04.SemanticWeb.pdb
+d:\user\documents\visual studio 2013\Projects\04.SemanticWeb\04.SemanticWeb\obj\Debug\04.SemanticWeb.csprojResolveAssemblyReference.cache
+d:\user\documents\visual studio 2013\Projects\04.SemanticWeb\04.SemanticWeb\obj\Debug\04.SemanticWeb.dll
+d:\user\documents\visual studio 2013\Projects\04.SemanticWeb\04.SemanticWeb\obj\Debug\04.SemanticWeb.pdb

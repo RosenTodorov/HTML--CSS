@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>WebForm</title>
+    <style>
+        table, td {
+            border-collapse: collapse;
+            padding: 5px;
+            margin: 0;
+            border: 1px solid black;
+        }
+        tr td:nth-child(1) {
+            text-align: right;
+        }
+        #specified col {
+            text-align: center;
+        }
+    </style>
+    
+</head>
+<body>
+    <form>
+        <table>
+
+            <tfoot>
+                <tr>
+                    <td id="specified_col" align="center" colspan="2">
+                        <center>
+                            <input type="submit" name="submit" value="Send Form" />
+                            <input type="Reset" name="reset" value="Clear this form" />
+                        </center>
+                    </td>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <td class="label">
+                        <label for="last name">Last Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="last name" name="last name" value="Nakov" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="first name">First Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="first name" name="first name" value="Svetlin" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="textarea">Address</label>
+                    </td>
+                    <td>
+                        <textarea id="textarea">17 Hristo Botev Str. floor 3, apt. 12</textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="city">City</label></td>
+                    <td><input type="text" id="city" placeholder="Kaspichan" /> <label for="state">State<input type="text" id="state" maxlength="10" size="5" /></label>                   
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="zipcode">Zip/Postal Code</label>
+                    </td>
+                    <td>
+                        <input type="text" id="zipcode" name="zipcode" value="9325" class="input" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="country">Country</label>
+                    </td>
+                    <td>
+                        <select name="country">
+                            <option value="BG">Bulgaria</option>
+                            <option value="UK">England</option>
+                            <option value="RO">Romania</option>
+                            <option value="US">USA</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="phone">Phone(country code, area code, number)</label></td>
+                    <td>(+ <input type="text" id="phone" maxlength="3" size="3" /> ) <input type="text" size="3" maxlength="2"> - <input type="text" size="8" maxlength="7"></td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="email">E-mail</label>
+                    </td>
+                    <td>
+                        <input type="text" id="email" name="email" value="nakov@kaspichan.org" />
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="birth">Birth Date</label></td>
+                    <td>Month: <input type="text" id="birth" size="2" maxlength="2" /> Day: <input type="text" id="birth" size="2" maxlength="2" /> Year (4 digits) <input type="text" id="birth" size="5" maxlength="4" /></td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="gender">Gender</label>
+                    </td>
+                    <td>
+                        <select name="gender">
+                            <option value="M">Male</option>
+                            <option value="F">Female</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        Starting date
+                    </td>
+                    <td>
+                        <input type="radio" id="start" name="start" />
+                        <label for="start">Spring 2006</label>
+                        <input type="radio" id="start2" name="start" />
+                        <label for="start2">Summer 2006</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="comments">Comments/Questions</label>
+                    </td>
+                    <td>
+                        <textarea id="comments">Please send me more information about the lodging </textarea>
+                    </td>
+                </tr>
+
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>
